@@ -9,8 +9,8 @@ Manually Assessed Twitter Dataset for Events
  * Hurricane Sandy
 
 The Files in this folder are for the following events
-1. uselections.csv -- United States Presidential Elections 2012 -- 10084 Tweets
-2. hurricansandy.csv -- Hurricane Sandy -- 4085 Tweets
+- uselections.csv -- United States Presidential Elections 2012 -- 10084 Tweets
+- hurricansandy.csv -- Hurricane Sandy -- 4085 Tweets
 
 The total number of tweets with relevance in the files are ~12000 tweets. These tweets represent 50 hashtags 
 (25 hashtags each event) and ~15000 tweets(with duplication).
@@ -19,20 +19,22 @@ The total number of tweets with relevance in the files are ~12000 tweets. These 
 The tweets can be obtained from the twitterID using the Twitter Search API. 
 Or by modifying the twitter corpur tools (https://github.com/lintool/twitter-corpus-tools). 
 
--- Format of each file --
+Format of each file
+-----------------
 The files are in csv format with 
 
-<tweetid>,<relevance>
+\<tweetid\>,\<relevance\>
 
 where <relevance> is either 'y'/'n', 
 'y' -- relevant
 'n' -- irrelevant
 
 
--- Hashtags for both events --
+Hashtags for both events
+------------
 
-- US Elections -
-#benghazi
+US Elections
+\#benghazi
 #bethe5percent
 #ctvottatnoon
 #defeatobama
