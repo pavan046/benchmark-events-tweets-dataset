@@ -65,29 +65,28 @@ Hashtags for both events
 
 
 **Hurricane Sandy **<br><br>
-#atheist<br>
-#blackout<br>
-#cnn<br>
-#eastcoast<br>
-#fdny<br>
-#frankenstorm<br>
-#hurricane<br>
-#hurricanesandy<br>
-#latenight<br>
-#manhattan<br>
-#msm<br>
-#newyork<br>
-#noaudience<br>
-#ny<br>
-#nyc<br>
-#ohmygod<br>
-#romneystormtips<br>
-#singlegirlproblems<br>
-#staysafe<br>
-#storm<br>
-#superstorm<br>
-#toronto<br>
-#usa<br>
-#wvu<br>
- 			
+\#atheist<br>
+\#blackout<br>
+\#cnn<br>
+\#eastcoast<br>
+\#fdny<br>
+\#frankenstorm<br>
+\#hurricane<br>
+\#hurricanesandy<br>
+\#latenight<br>
+\#manhattan<br>
+\#msm<br>
+\#newyork<br>
+\#noaudience<br>
+\#ny<br>
+\#nyc<br>
+\#ohmygod<br>
+\#romneystormtips<br>
+\#singlegirlproblems<br>
+\#staysafe<br>
+\#storm<br>
+\#superstorm<br>
+\#toronto<br>
+\#usa<br>
+\#wvu<br> 			
 
