@@ -8,14 +8,17 @@ Manually Assessed Twitter Dataset for Events
  * United States Presidential Elections 2012
  * Hurricane Sandy
 
-The Files in this folder are for the following events
+Files
+-----------------------
+The Files in this repository are 
 - uselections.csv -- United States Presidential Elections 2012 -- 10084 Tweets
 - hurricansandy.csv -- Hurricane Sandy -- 4085 Tweets
 
 The total number of tweets with relevance in the files are ~12000 tweets. These tweets represent 50 hashtags 
 (25 hashtags each event) and ~15000 tweets(with duplication).
     
--- Obtaining the tweets -- 
+Obtaining the tweets  
+-----------------------
 The tweets can be obtained from the twitterID using the Twitter Search API. 
 Or by modifying the twitter corpur tools (https://github.com/lintool/twitter-corpus-tools). 
 
@@ -33,7 +36,7 @@ where <relevance> is either 'y'/'n',
 Hashtags for both events
 ------------
 
-**US Elections**<br>
+**US Elections**<br><br>
 \#benghazi<br>
 \#bethe5percent<br>
 \#ctvottatnoon<br>
@@ -61,31 +64,30 @@ Hashtags for both events
 \#vote<br>
 
 
-- Hurricane Sandy -
-#atheist
-#blackout
-#cnn
-#eastcoast
-#f
-#fdny
-#frankenstorm
-#hurricane
-#hurricanesandy
-#latenight
-#manhattan
-#msm
-#newyork
-#noaudience
-#ny
-#nyc
-#ohmygod
-#romneystormtips
-#singlegirlproblems
-#staysafe
-#storm
-#superstorm
-#toronto
-#usa
-#wvu
+**Hurricane Sandy **<br><br>
+#atheist<br>
+#blackout<br>
+#cnn<br>
+#eastcoast<br>
+#fdny<br>
+#frankenstorm<br>
+#hurricane<br>
+#hurricanesandy<br>
+#latenight<br>
+#manhattan<br>
+#msm<br>
+#newyork<br>
+#noaudience<br>
+#ny<br>
+#nyc<br>
+#ohmygod<br>
+#romneystormtips<br>
+#singlegirlproblems<br>
+#staysafe<br>
+#storm<br>
+#superstorm<br>
+#toronto<br>
+#usa<br>
+#wvu<br>
  			
 
