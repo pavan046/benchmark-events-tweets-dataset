@@ -1,10 +1,12 @@
------------------------------------------------------
- Manually Accessed Dataset 
 
- Events: 
+
+Manually Assessed Twitter Dataset for Events
+=============================================  
+
+ Events:
+----------------------- 
  * United States Presidential Elections 2012
  * Hurricane Sandy
------------------------------------------------------
 
 The Files in this folder are for the following events
 1. uselections.csv -- United States Presidential Elections 2012 -- 10084 Tweets
