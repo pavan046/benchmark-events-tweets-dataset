@@ -1,10 +1,10 @@
-*******************************************************
-* Manually Accessed Dataset 
-*
-* Events: 1. United States Presidential Elections 2012
-*         2. Hurricane Sandy
-*
-*******************************************************
+-----------------------------------------------------
+ Manually Accessed Dataset 
+
+ Events: 1. United States Presidential Elections 2012
+         2. Hurricane Sandy
+-----------------------------------------------------
+
 The Files in this folder are for the following events
 1. uselections.csv -- United States Presidential Elections 2012 -- 10084 Tweets
 2. hurricansandy.csv -- Hurricane Sandy -- 4085 Tweets
