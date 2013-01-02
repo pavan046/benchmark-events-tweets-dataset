@@ -33,32 +33,32 @@ where <relevance> is either 'y'/'n',
 Hashtags for both events
 ------------
 
-US Elections
-\#benghazi
-#bethe5percent
-#ctvottatnoon
-#defeatobama
-#earlyvoting
-#education
-#election
-#gallup
-#gop
-#gop2012
-#harvard
-#johnson2012
-#makeyourvotecount
-#obama
-#obama2012
-#ohio
-#p2
-#romney
-#romneyryan2012
-#sandy
-#tcot
-#teamsearle
-#teaparty
-#tlot
-#vote
+**US Elections**<br>
+\#benghazi<br>
+\#bethe5percent<br>
+\#ctvottatnoon<br>
+\#defeatobama<br>
+\#earlyvoting<br>
+\#education<br>
+\#election<br>
+\#gallup<br>
+\#gop<br>
+\#gop2012<br>
+\#harvard<br>
+\#johnson2012<br>
+\#makeyourvotecount<br>
+\#obama<br>
+\#obama2012<br>
+\#ohio<br>
+\#p2<br>
+\#romney<br>
+\#romneyryan2012<br>
+\#sandy<br>
+\#tcot<br>
+\#teamsearle<br>
+\#teaparty<br>
+\#tlot<br>
+\#vote<br>
 
 
 - Hurricane Sandy -
