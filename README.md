@@ -3,7 +3,7 @@
 Manually Assessed Twitter Dataset for Events
 =============================================  
 
- Events:
+Events
 ----------------------- 
  * United States Presidential Elections 2012
  * Hurricane Sandy
