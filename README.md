@@ -1,8 +1,9 @@
 -----------------------------------------------------
  Manually Accessed Dataset 
 
- Events: 1. United States Presidential Elections 2012
-         2. Hurricane Sandy
+ Events: 
+1. United States Presidential Elections 2012
+2. Hurricane Sandy
 -----------------------------------------------------
 
 The Files in this folder are for the following events
